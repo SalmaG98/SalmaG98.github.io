@@ -522,7 +522,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/salmagalaaoui/", "_blank");
+          window.open("https://www.linkedin.com/in/salmagalaaoui", "_blank");
         },
       },{
         id: 'social-researchgate',
