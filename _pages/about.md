@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <a href='[](https://valeoai.github.io/)'>valeo.ai</a>. Paris, France.
+subtitle: [valeo.ai](https://valeoai.github.io/). Paris, France.
 
 profile:
   align: right
@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a **research engineer** at <a href='[](https://valeoai.github.io/)'>valeo.ai</a> and a PhD student with the IMAGINE lab at École Nationale des Ponts et Chaussées (ENPC) working on the topic of 4D human pose and shape estimation from LiDAR data. Previously, I have been and intern and then a research engineer at <a href='[](https://europe.naverlabs.com/)'>NAVER LABS Europe</a> in the 3D Humans team. I have obtained my MSc in decision theory from <a href='[](https://dauphine.psl.eu/)'>Université Paris Dauphine - PSL</a> and my engineering degree in Industrial Computing and Automation from the <a href='[](https://www.insat.rnu.tn/)'>National Institute of Applied Science and Technology (INSAT)</a>.
+I am currently a **research engineer** at [valeo.ai](https://valeoai.github.io/) and a PhD student with the IMAGINE lab at École Nationale des Ponts et Chaussées (ENPC) working on the topic of 4D human pose and shape estimation from LiDAR data. Previously, I have been and intern and then a research engineer at [NAVER LABS Europe](https://europe.naverlabs.com/) in the 3D Humans team. I have obtained my MSc in decision theory from [Université Paris Dauphine - PSL](https://dauphine.psl.eu/) and my engineering degree in Industrial Computing and Automation from the [National Institute of Applied Science and Technology (INSAT)](https://www.insat.rnu.tn/).
