@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 1998
     - name: Languages
-      value: Arabic (native), French (biligual), English, German (basic)
+      value: Arabic (native), French (bilingual), English, German (basic)
 
 - title: Experience
   type: time_table
