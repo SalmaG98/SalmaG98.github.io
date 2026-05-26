@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be contributing to a [tutorial](https://human-mesh-tutorial.github.io/) @[CVPR](https://cvpr.thecvf.com/Conferences/2026) 2026 related to our preprint [3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review](https://arxiv.org/pdf/2509.12197).
+I am co-organising a tutorial on [3D Human Mesh Modeling and Recovery from RGB and LiDAR](https://human-mesh-tutorial.github.io/) @[CVPR](https://cvpr.thecvf.com/Conferences/2026) 2026. I will be contributing by giving an overview of our recent preprint [3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review](https://arxiv.org/pdf/2509.12197).
