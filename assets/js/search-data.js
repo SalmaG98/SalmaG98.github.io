@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-contributing-to-a-tutorial-cvpr-2026-related-to-our-preprint-3d-human-pose-and-shape-estimation-from-lidar-point-clouds-a-review",
-          title: 'I will be contributing to a tutorial @CVPR 2026 related to our preprint...',
+            },},{id: "news-i-am-co-organising-a-tutorial-on-3d-human-mesh-modeling-and-recovery-from-rgb-and-lidar-cvpr-2026-i-will-be-contributing-by-giving-an-overview-of-our-recent-preprint-3d-human-pose-and-shape-estimation-from-lidar-point-clouds-a-review",
+          title: 'I am co-organising a tutorial on 3D Human Mesh Modeling and Recovery from...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
